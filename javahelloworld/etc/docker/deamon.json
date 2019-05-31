@@ -1,0 +1,3 @@
+{
+"insecure-registries" : [ "IP_AUTRE_SERVEUR:5000" ]
+}
